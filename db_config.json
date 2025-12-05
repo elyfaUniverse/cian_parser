@@ -1,7 +1,7 @@
 {
     "host": "localhost",
-    "port": "5432",
+    "port": "",
     "database": "cian_parser_2",
-    "user": "postgres",
+    "user": "",
     "password": "ПАРОЛЬ"
 }
