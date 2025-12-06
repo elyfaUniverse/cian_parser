@@ -40,10 +40,10 @@ class CianParser:
         
         db_config = {
             'host': 'localhost',
-            'port': '5432',
+            'port': '',
             'database': 'cian_parser_2',
-            'user': 'postgres',
-            'password': 'Mamba123'
+            'user': '',
+            'password': ''
         }
         
         try:
